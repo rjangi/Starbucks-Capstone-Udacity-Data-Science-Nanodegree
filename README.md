@@ -27,7 +27,7 @@ data:
 Starbucks_Capstone_notebook.ipynb: Python notebook that explores the data and builds a classification model
 randomforestclassifier.pkl: Pickle file of fitted model
 ## Results
- See: 
+ See: https://medium.com/@radster95/starbucks-capstone-udacity-data-science-nanodegree-167eea88c3
 ## Acknowledgements
 Thank you to my mentor Mrudula and the entire Udacity team
 Thank you to Starbucks for providing the data
